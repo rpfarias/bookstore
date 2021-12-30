@@ -5,7 +5,7 @@
 A few sentences describing the overall goals of the pull request's commits.
 
 ## Todos
-- [ ] Tests
+- [x] Tests
 - [ ] Documentation
 
 ## Deploy Notes
